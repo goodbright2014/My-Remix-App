@@ -1,0 +1,20 @@
+html {
+  background-color: #111111;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  
+  color: hsl(0, 0%, 100%);
+
+  background-color: #6363d4;
+  background-image: linear-gradient(315deg, #d463c7 0%, #262333 74%);
+
+}
